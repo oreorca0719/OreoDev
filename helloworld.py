@@ -1,2 +1,5 @@
 print("hello world")
 print("hello universe")
+print("hello humans")
+print("hello AI")
+print("hello everyone")
